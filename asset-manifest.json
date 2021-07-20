@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-covid-app/static/css/main.c86ff678.chunk.css",
+    "main.css": "/react-covid-app/static/css/main.30641d10.chunk.css",
     "main.js": "/react-covid-app/static/js/main.ccc453a4.chunk.js",
     "main.js.map": "/react-covid-app/static/js/main.ccc453a4.chunk.js.map",
     "runtime-main.js": "/react-covid-app/static/js/runtime-main.cb9bb6c8.js",
@@ -10,14 +10,14 @@
     "static/js/2.33c10c74.chunk.js.map": "/react-covid-app/static/js/2.33c10c74.chunk.js.map",
     "index.html": "/react-covid-app/index.html",
     "static/css/2.4be38407.chunk.css.map": "/react-covid-app/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.c86ff678.chunk.css.map": "/react-covid-app/static/css/main.c86ff678.chunk.css.map",
+    "static/css/main.30641d10.chunk.css.map": "/react-covid-app/static/css/main.30641d10.chunk.css.map",
     "static/js/2.33c10c74.chunk.js.LICENSE.txt": "/react-covid-app/static/js/2.33c10c74.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cb9bb6c8.js",
     "static/css/2.4be38407.chunk.css",
     "static/js/2.33c10c74.chunk.js",
-    "static/css/main.c86ff678.chunk.css",
+    "static/css/main.30641d10.chunk.css",
     "static/js/main.ccc453a4.chunk.js"
   ]
 }
